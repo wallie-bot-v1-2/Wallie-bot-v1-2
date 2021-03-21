@@ -102,7 +102,7 @@ lolKey = up.LolHumanKey
 const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
 + 'FN:Mito\n' // Nama
-+ 'ORG:Mamabot;\n' // Nama bot
++ 'ORG:Mamasita bot;\n' // Nama bot
 + 'TEL;type=CELL;type=VOICE;waid=525621341581:+52 56 2134 1581\n' // Nomor bot
 + 'END:VCARD' 
 
